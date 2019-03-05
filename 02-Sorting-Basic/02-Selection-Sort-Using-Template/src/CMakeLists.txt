@@ -16,4 +16,3 @@ add_executable(${app_name}
 ${headers}
 ${src}
 )
-target_link_libraries(${app_name} SelectionSortlib)

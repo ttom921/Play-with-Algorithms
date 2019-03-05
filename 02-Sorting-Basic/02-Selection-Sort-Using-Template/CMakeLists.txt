@@ -1,0 +1,5 @@
+cmake_minimum_required( VERSION 3.10)
+
+ADD_SUBDIRECTORY (inc)
+ADD_SUBDIRECTORY (lib)
+ADD_SUBDIRECTORY (src)
